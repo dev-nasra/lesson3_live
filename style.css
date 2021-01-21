@@ -126,6 +126,8 @@ hr{
 }
 .ow{
     background-color: var(--off-white);
+    max-width: 600px;
+    margin:auto
 }
 /**footer**/
 
